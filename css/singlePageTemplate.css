@@ -302,6 +302,12 @@ footer {
 	float: none;
 	display: none;
 }
+header {
+	width: 100%;
+	height: 50%;
+	background-color: #52bad5;
+	border-bottom: 1px solid #2C9AB7;
+}
 header nav ul {
 }
 nav ul li {
