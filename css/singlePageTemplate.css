@@ -354,12 +354,12 @@ nav ul li {
 	text-align: center;
 }
 .banner {
-	background-color: #2D9AB7;
+	background-color: #000000;
 	background-image: none;
-	height: 600px;
+	height: 900px;
 }
 .about {
-	height: 300px;
+	height: 100px;
 }
 .tagline {
 	margin-top: 20px;
