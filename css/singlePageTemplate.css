@@ -22,11 +22,11 @@ body {
 header {
 	width: 100%;
 	height: 5%;
-	background-color: #52bad5;
-	border-bottom: 1px solid #2C9AB7;
+	background-color: #d3eaf0;
+	border-bottom: 1px solid #b9e3ed;
 }
 .logo {
-	color: #fff;
+	color: #000000;
 	font-weight: bold;
 	text-align: undefined;
 	width: 10%;
@@ -47,7 +47,7 @@ header nav ul {
 }
 nav ul li {
 	float: left;
-	color: #FFFFFF;
+	color: #000000;
 	font-size: 14px;
 	text-align: left;
 	margin-right: 25px;
@@ -56,11 +56,11 @@ nav ul li {
 	transition: all 0.3s linear;
 }
 ul li a {
-	color: #FFFFFF;
+	color: #000000;
 	text-decoration: none;
 }
 ul li:hover a {
-	color: #2C9AB7;
+	color: #000000;
 }
 .hero_header {
 	color: #000000;
@@ -94,11 +94,12 @@ ul li:hover a {
 .text_column {
 	width: 29%;
 	text-align: center;
-	font-weight: lighter;
+	font-weight: bold;
+	font-size: 21px;
 	line-height: 25px;
 	float: left;
-	padding-left: 20px;
-	padding-right: 20px;
+	padding-left: 25px;
+	padding-right: 25px;
 	color: #000000;
 }
 .about {
@@ -107,7 +108,7 @@ ul li:hover a {
 	padding-right: 25px;
 	padding-top: 35px;
 	display: inline-block;
-	background-color: #B3B3B3;
+	background-color:#f2b36b;
 	margin-top: 0px;
 }
 /* Stats Gallery */
@@ -138,7 +139,7 @@ ul li:hover a {
 	margin-right: 5px;
 	margin-bottom: 5px;
 	margin-left: 5px;
-	color: #52BAD5;
+	color: #b9e3ed;
 }
 .gallery .thumbnail p {
 	margin-top: 0px;
@@ -149,7 +150,7 @@ ul li:hover a {
 }
 /* Parallax Section */
 .banner {
-	background-color: #2D9AB7;
+	background-color: #d3eaf0;
 	background-image: url(../images/parallax.png);
 	height: 400px;
 	background-attachment: fixed;
@@ -186,11 +187,11 @@ ul li:hover a {
 	float: left;
 }
 .banner .banner_column h3 {
-	color: #B3B3B3;
+	color: #1005ed;
 	text-align: center;
 }
 .banner_header h1 {
-	color: #B3B3B3;
+	color: #1005ed;
 	text-align: center;
 	margin-top: 20px;
 	margin-right: 4px;
