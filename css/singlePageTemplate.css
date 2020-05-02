@@ -108,7 +108,8 @@ ul li:hover a {
 	padding-right: 25px;
 	padding-top: 35px;
 	display: inline-block;
-	background-color:#f2b36b;
+	background-color:#ffddcd;
+	/*background-color:#f2b36b;*/
 	margin-top: 0px;
 }
 /* Stats Gallery */
